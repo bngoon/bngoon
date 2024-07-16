@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, software engineering, and emerging technologies.
 - 🌱 I’m currently learning advanced React, and Docker.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: [your email or social media handle]
+- 📫 How to reach me: bookerngoon@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a ten-year Army veteran.
 
