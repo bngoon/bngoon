@@ -7,4 +7,4 @@
 - ⚡ Fun fact: I’m a ten-year Army veteran.
 
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,postgres,mysql,express,nodejs,docker,django,python,jira,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,postgres,mysql,express,nodejs,docker,django,python,netlify,postman,vscode,vite,figma&theme=light)](https://skillicons.dev)
