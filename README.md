@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bngoon
 - 👀 I’m interested in web development, software engineering, and emerging technologies.
-- 🌱 I’m currently learning advanced React, Django, and database management.
+- 🌱 I’m currently learning advanced React, and Docker.
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
 - 📫 How to reach me: [your email or social media handle]
 - 😄 Pronouns: He/Him
