@@ -14,7 +14,8 @@
 - **Tools**: Node.js, Docker, Git, VS Code, Figma, Postman, Vite, Firebase, Jira
 - **Platforms**: Heroku, Netlify
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,express,django,sequelize,nodejs,mongodb,postgres,mysql,docker,git,vscode,figma,postman,vite,firebase,heroku
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,express,django,sequelize,nodejs,mongodb,postgres,mysql,docker,git,vscode,figma,postman,vite,firebase,jira,heroku,netlify&theme=light)](https://skillicons.dev)
+
 
 
 
