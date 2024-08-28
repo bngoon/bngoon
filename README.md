@@ -11,9 +11,10 @@
 - **Languages**: JavaScript, HTML5, CSS3, Python
 - **Frameworks/Libraries**: React.js, Express.js, Django, Sequelize
 - **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Docker, Git, VS Code, Figma, Postman
+- **Tools**: Node.js, Docker, Git, VS Code, Figma, Postman, Vite, Firebase, Jira
 - **Platforms**: Heroku, Netlify
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,express,django,sequelize,nodejs,mongodb,postgres,mysql,docker,git,vscode,figma,postman,heroku,netlify,vite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,express,django,sequelize,nodejs,mongodb,postgres,mysql,docker,git,vscode,figma,postman,vite,firebase,jira,heroku
+
 
 
