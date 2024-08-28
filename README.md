@@ -6,5 +6,14 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a ten-year Army veteran.
 
-### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,postgres,mysql,express,nodejs,docker,django,python,netlify,postman,heroku,vscode,vite,figma&theme=light)](https://skillicons.dev)
+## Tech Stack
+
+- **Languages**: JavaScript, HTML5, CSS3, Python
+- **Frameworks/Libraries**: React.js, Express.js, Django, Sequelize
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools**: Docker, Git, VS Code, Figma, Postman
+- **Platforms**: Heroku, Netlify
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,express,django,sequelize,nodejs,mongodb,postgres,mysql,docker,git,vscode,figma,postman,heroku,netlify,vite&theme=light)](https://skillicons.dev)
+
+
