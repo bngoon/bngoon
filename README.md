@@ -1,21 +1,27 @@
-- 👋 Hi, I’m @bngoon
-- 👀 I’m interested in web development, software engineering, emerging technologies, and generative AI.
-- 🌱 I’m currently learning TypeScript & Next.js.
-- 💞️ I’m looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: bookerngoon@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an Army veteran.
+# 👋 Hi, I’m Booker.
+
+I’m a Software Engineering graduate student at Boston University and a Software Engineering Intern working on AI/ML-driven data pipelines in an enterprise environment.
+
+I focus on backend systems, data processing, and applied machine learning. My recent work includes improving Python-based email automation pipelines running in AWS EC2 within containerized environments.
+
+📫 Contact: bookerngoon@gmail.com  
+⚡ Army veteran  
+
+## Current Focus
+
+- Backend engineering and scalable data pipelines  
+- Applied machine learning and LLM workflows  
+- Cloud-based systems (AWS)
 
 ## Tech Stack
 
-- **Languages**: JavaScript, HTML5, CSS3, Python
-- **Frameworks/Libraries**: React.js, Express.js, Django, Sequelize
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Node.js, Docker, Git, VS Code, Figma, Postman, Vite, Firebase, Jira
+- **Languages**: Python, JavaScript, SQL, Java
+- **Frontend**: React.js, Next.js
+- **Backend & Data**: Express.js, Django, pandas, NumPy, scikit-learn, LangChain
+- **Databases**: PostgreSQL, MongoDB, MySQL
+- **Cloud & DevOps**: AWS (EC2), Docker, YAML
+- **Collaboration & Workflow**: Git, Jira, Confluence
+- **Tools**: VS Code, Postman, Figma, Jupyter, Lucid
 - **Platforms**: Heroku, Netlify
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,express,django,sequelize,nodejs,mongodb,postgres,mysql,docker,git,vscode,figma,postman,vite,firebase,heroku,netlify&theme=light)](https://skillicons.dev)
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,python,react,nextjs,nodejs,django,postgres,mongodb,docker,aws,git&theme=light)](https://skillicons.dev)
